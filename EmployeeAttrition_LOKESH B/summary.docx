@@ -1,0 +1,14 @@
+HR Attrition Executive Summary
+To: Director of Human Resources
+
+From: Data Science & Analytics Team
+
+Subject: Predictive Insights & Strategic Interventions for Employee Attrition
+
+Our predictive data diagnostics show that the company maintains an annual attrition rate of 16.12%. While this indicates that the vast majority of our workforce remains stable, standard industry benchmarks suggest that losing nearly one in six employees creates material financial friction. Crucially, employee exits are not distributed randomly across our business operations. Departures are heavily concentrated within vulnerable talent hotbeds, calling for immediate, structured management interventions.
+
+Key Operational Drivers and Data Findings: The Sales and Research & Development divisions suffer the heaviest losses. Specifically, Sales Representatives and Laboratory Technicians exit at disproportionate rates, exposing critical operational entry points where systemic job strain occurs. Furthermore, financial compensation alone does not tell the whole story. While lower-earning entry positions see higher turnover, systemic mandatory overtime emerged as the single strongest programmatic catalyst for employee departures. Employees working regular overtime leave at a rate nearly triple that of non-overtime peers. Finally, employees are most likely to leave during their first and second years of tenure. Once an employee crosses a critical 3-year threshold with the organization, their predicted probability of exiting drops substantially.
+
+Tactical Recommendations and Human Capital Interventions: First, establish a firm HR tracking policy that triggers a formal operational review whenever a team member exceeds 10 hours of overtime per week. For inherently high-demand positions, such as Sales Representatives, adjust base structures to include high-incentive performance metrics that offset extended hour burnout. Second, launch a structured 180-day onboarding program specifically for newly hired Laboratory Technicians and Sales personnel. Pair them with internal champions who have crossed the 3-year tenure mark to build stronger organizational ties and explicitly address early friction points.
+
+Model Limitations for Strategic Awareness: While this machine learning system accurately captures historical patterns, it operates on a structural delay. The model relies entirely on lag-indicators, such as historical tenure records and past compensation reviews. It cannot anticipate sudden real-time shifts, such as macro-economic market changes, external competitor poaching campaigns, or localized interpersonal conflicts with managers that can cause immediate, unexpected departures. HR leaders should use these risk scores as a supplementary guide alongside regular, active conversations with their teams.
